@@ -106,10 +106,17 @@ button {
   font-family: 'Montserrat', sans-serif;
   cursor: pointer;
   transition: all .5s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 button:hover {
   background-color: var(--very_dark_cyan);
+}
+
+button .cart {
+  margin-right: 5px;
 }
 
 /* Footer */
@@ -173,6 +180,10 @@ button:hover {
 
   .price__box {
     text-align: left;
+  }
+
+  button {
+    width: 100%;
   }
 
   .attribution {
