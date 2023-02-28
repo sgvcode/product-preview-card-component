@@ -23,8 +23,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![brave_Ghoe55k2cw](https://user-images.githubusercontent.com/106033066/221975709-9329da29-2661-47d4-8a40-3f15d767ec8a.png)
-![brave_N6brYClY4L](https://user-images.githubusercontent.com/106033066/221975725-5223f466-8732-4924-b387-da0ca3cf0bdb.png)
+![brave_pmfbo5Ev9p](https://user-images.githubusercontent.com/106033066/221997563-ea33c795-fe9f-45a5-9b13-95eb531de2a6.png)
+![brave_N6brYClY4L](https://user-images.githubusercontent.com/106033066/221997567-a22bb819-0ef8-4d89-a589-b87d703304ed.png)
+
 
 ### Links
 
