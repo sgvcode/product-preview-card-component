@@ -24,8 +24,8 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 ![brave_pmfbo5Ev9p](https://user-images.githubusercontent.com/106033066/221997563-ea33c795-fe9f-45a5-9b13-95eb531de2a6.png)
-![brave_N6brYClY4L](https://user-images.githubusercontent.com/106033066/221997567-a22bb819-0ef8-4d89-a589-b87d703304ed.png)
 
+![brave_E1Bd4ZbcJu](https://user-images.githubusercontent.com/106033066/221997648-fc56e5bf-e22c-4c87-8087-d6b989b4edee.png)
 
 ### Links
 
